@@ -1,2 +1,7 @@
 # Profile
-Website for game development portfolio
+
+Game development portfolio website.
+
+## Run locally
+
+Open `index.html` in your browser.
